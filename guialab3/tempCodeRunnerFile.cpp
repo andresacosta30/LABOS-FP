@@ -1,0 +1,1 @@
+int div = suma/3;
