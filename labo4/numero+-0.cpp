@@ -13,7 +13,7 @@ if (num<0)
 {
 cout << "Es negativo";
 }
-if (num=0)
+if (num==0)
 {
     cout <<" Es cero";
 }
